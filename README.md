@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! <img src="hi.gif" width=30 height=30>
 
 <!--
 **Master-Radon/Master-Radon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
